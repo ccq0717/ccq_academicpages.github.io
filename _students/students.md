@@ -1,10 +1,10 @@
 ---
 permalink: /students/
-#title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+title: "Students"
 redirect_from: 
   - /students.html
 ---
 
-# Students
 - student 1
 - student 2
