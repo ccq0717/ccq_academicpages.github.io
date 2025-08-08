@@ -15,19 +15,19 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /research/ 
+    url: /research/
 
   - title: "Students"
-    url: /students/ 
+    url: /students/
 
   # - title: "Talks"
   #   url: /talks/    
 
   - title: "Services"
-    url: /services/ 
+    url: /services/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
     
   # - title: "Portfolio"
   #   url: /portfolio/
